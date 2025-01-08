@@ -1,4 +1,4 @@
-# Games Exetuables
+# Game Exetuables
 ## Taking Inventory
 This is a game I worked on during university with a group. It is a finished party game where players compete to fulfill specific orders by collecting items in a supermarket. I was mainly responsible for the movement, item mechanics and effects and the player arms.
 It requires a controller and 2-3 more people. Controls included in the starting screen.
